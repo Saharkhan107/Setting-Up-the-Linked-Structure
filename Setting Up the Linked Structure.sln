@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Setting Up the Linked Structure", "Setting Up the Linked Structure\Setting Up the Linked Structure.pyproj", "{A017DB53-991A-4A6E-960F-C498A9F5416B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A017DB53-991A-4A6E-960F-C498A9F5416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A017DB53-991A-4A6E-960F-C498A9F5416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB16539-D89C-4BEB-A1E8-1875AA044A89}
+	EndGlobalSection
+EndGlobal
